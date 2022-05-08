@@ -1,0 +1,12 @@
+.UserItem {
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid gray;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#details {
+    margin-left: 20px;
+}
